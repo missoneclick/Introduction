@@ -29,7 +29,7 @@ I enjoy building clean, user-friendly websites and exploring new technologies.
 ---
 
 ## 📫 Connect with Me
-[![Discord](https://img.shields.io/badge/Discord-0077B5?style=for-the-badge&logo=discord&logoColor=white)](https://www.discord.com/)  
+[![Discord](https://cdn.worldvectorlogo.com/logos/discord-logo-1.svg)](https://www.discord.com/)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white)](house1.carrd.co)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:missoneclick@gmail.com)
 
