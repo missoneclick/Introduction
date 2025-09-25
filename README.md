@@ -1,7 +1,7 @@
-# 👋 Hi, I'm Miss One Click
+# 👋 Hi, I'm MissOneClick aka House 1
 
 Welcome to my GitHub profile!  
-I'm a **Web Programming student** passionate about **front-end development** and **creative design**.  
+I'm a **Web Programming student** and a **Phython/Java Learner** passionate about **front-end development** and **creative design**.  
 I enjoy building clean, user-friendly websites and exploring new technologies.
 
 ---
@@ -9,6 +9,7 @@ I enjoy building clean, user-friendly websites and exploring new technologies.
 ## 🌱 Currently Learning
 - HTML5 & CSS3
 - JavaScript (ES6+)
+- Java
 - Responsive Web Design
 - Git & GitHub for version control
 
