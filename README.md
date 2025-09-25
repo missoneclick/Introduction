@@ -23,15 +23,15 @@ I enjoy building clean, user-friendly websites and exploring new technologies.
 
 ## ⚡ Fun Facts
 - 🎮 I love playing video games
-- ☕ Coffee keeps my creativity flowing
+- ☕ Stays awake at night doing HTML
 - 🎨 I enjoy creating beautiful UI designs
 
 ---
 
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white)](#)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@example.com)
+[![Discord](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=discord&logoColor=white)](https://www.discord.com/)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white)](house1.carrd.co)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:missoneclick@gmail.com)
 
 ---
 
